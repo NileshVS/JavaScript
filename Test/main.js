@@ -1,1 +1,3 @@
-alert("Test");
+//alert("Test");
+
+console.log("Hello");
